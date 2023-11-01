@@ -1,1 +1,1 @@
-web: gunicorn codestar.gunicorn
+web: gunicorn all_fired_up.wsgi
